@@ -4,21 +4,33 @@
 
 academe 英['ækədi:m] 美[ˈækəˌdim]
 
+access [‘ækses]
+
 Adobe [əˈdəʊbi]
 
 AJAX [ˈeɪdʒæks]
 
+analogy [əˈnælədʒi]
+
 android ['ændrɔid]
+
+Angular [‘æŋgjʊlə]
 
 Apache [əˈpætʃiː]
 
 App [ˈæp]
 
+array [ə’rei]
+
 archive ['ɑrkaɪv]
+
+aspect  [‘æspekt]
 
 avatar [ˌævə'tɑr] 
 
 Axure [`æk∫ur]
+
+Azure [‘æʒə]
 
 C# [siˈʃa:rp]
 
@@ -32,7 +44,11 @@ Console [kən'səʊl]
 
 Debian [ˈdɛbiən]
 
-django [django]
+deque [‘dek]
+
+django [ˈdʒæŋɡoʊ]
+
+doc [dɒk]
 
 ear [ɪr]
 
@@ -56,7 +72,13 @@ guava [ˈɡwɑvə]
 
 GUI [ˈɡui]
 
+height [haɪt]
+
 hibernate [ˈhaɪbərneɪt]
+
+hidden  [‘hɪdn]
+
+image [‘ɪmɪdʒ]
 
 integer [ˈɪntɪdʒə] 
 
@@ -90,11 +112,15 @@ Lucene [ˈluːsin]
 
 kindle ['kindl]
 
+matrix [ˈmeɪtrɪks]
+
 maven [meiven]
 
 Memcached [mem'kæʃt]
 
 mobile [moˈbil] [ˈmoˌbil] [ˈməubail]
+
+module [‘mɒdjuːl]
 
 MySQL [maɪ ˌɛskjuːˈɛl] [maɪ ˈsiːkwəl]
 
@@ -112,9 +138,13 @@ Putty ['pʌti]
 
 python	英[ˈpaɪθən] 美[ˈpaɪθɑ:n]
 
+query [‘kwɪəri]
+
 Retina ['retnə]
 
 Safari [sə'fɑ:ri]
+
+scheme [skiːm]
 
 solr ['səulə] 
 
@@ -124,13 +154,21 @@ SQL ['sə kəl] [ˈsiːkwəl] [ˈɛs kjuː ˈɛl]
 
 Struts [st'rʌts]
 
+sudo [‘suːduː]
+
+suite [swiːt]
+
 tomcat 英[ˈtɒmkæt] 美[ˈtɑ:mkæt]
 
 TortoiseSVN [ˈtɔ:təs]
 
 Ubuntu [uˈbuntuː]
 
+vue [v’ju:]
+
 war [wɔr]
+
+width [wɪdθ]
 
 WiFi [ˈwaɪfaɪ] 
 
